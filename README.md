@@ -10,6 +10,7 @@
 - 🔄 Growing expertise with CI/CD: **GitHub Actions**.
 - 📡 Monitoring & Logging with **Prometheus | Grafana**.
 - 🔥 Always learning and sharing knowledge about **Cloud & DevOps**.
+- ![PORTFOLIO](https://precious-devops.netlify.app)
 
 ---
 
